@@ -2,4 +2,4 @@
 
 [go live](https://github.com/Zu50/hike-high/)
 
-## [Run](https://4html.net/live-preview.html)
+## [Run](http://127.0.0.1:5500/index.html)
